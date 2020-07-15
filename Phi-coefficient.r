@@ -17,7 +17,7 @@ Phi
 #Frame1<- subset(data, select = varset1)
 #GKmatrix1<- GKtauDataframe(Frame1)
 #plot(GKmatrix1, corrColors = "blue")
-#############################################################
+#########################
 
      
 tbl = table(newdata$Diabetes,newdata$Bronchitis)
